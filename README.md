@@ -18,7 +18,7 @@ Sono un aspirante ingegnere con una grande passione per l'**Informatica**, la **
 
 ## 🚀 Progetti In Evidenza
 
-- 🚗 **[Sistema di Carpooling - Ingegneria del Software](LINK_AL_TUO_REPO_CARPOOLING):** Analisi dei requisiti e progettazione OO (UML) per una piattaforma di condivisione viaggi.
+- 🚗 **[Sistema di Carpooling - Ingegneria del Software](https://github.com/Fab100100/progetto-ingegneria-del-software):** Analisi dei requisiti e progettazione OO (UML) per una piattaforma di condivisione viaggi.
 - 🗃️ **[Clone TripAdvisor - Basi di Dati](https://github.com/Fab100100/progetto-basi-di-dati):** Progettazione concettuale/logica e implementazione SQL di un database relazionale strutturato.
 
 ---
