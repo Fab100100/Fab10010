@@ -2,7 +2,7 @@
 
 ### Laureando in Ingegneria Informatica @ Università degli Studi di Napoli Federico II
 
-Sono un aspirante ingegnere con una grande passione per l'**Informatica**, la **Robotica** e l'applicazione dell'**Intelligenza Artificiale** nel mondo reale. Mi piace sporcarmi le mani unendo software e hardware per risolvere problemi complessi.
+Sono un aspirante ingegnere con una grande passione per l'**Informatica**, la **Robotica** e l'applicazione dell'**Intelligenza Artificiale** nel mondo reale.
 
 ---
 
@@ -11,7 +11,7 @@ Sono un aspirante ingegnere con una grande passione per l'**Informatica**, la **
 - **Linguaggi:** Python, C++, Bash, Java.
 - **Analisi Dati & AI:** SQL, Pandas, NumPy, Jupyter Notebook.
 - **Strumenti:** Linux, Git, VS Code, Visual Paradigm, Macchine Virtuali.
-- **Sicurezza:** Attualmente sto esplorando percorsi pratici su **TryHackMe**.
+- **Sicurezza:** Percorsi pratici su **TryHackMe**.
 - **Certificazioni:** Pilota UAS Certificato EASA (Categorie OPEN A1-A3).
 
 ---
