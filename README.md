@@ -32,4 +32,4 @@ Sono un aspirante ingegnere con una grande passione per l'**Informatica**, la **
 ## 📫 Contatti
 
 - 📧 Email: [fabryficco@gmail.com](mailto:fabryficco@gmail.com)
-- 💼 LinkedIn: [(a breve...)]
+- 💼 LinkedIn: [(https://www.linkedin.com/in/fabrizio-ficco-73749a3ba/)]
