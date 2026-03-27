@@ -23,12 +23,6 @@ Sono un aspirante ingegnere con una grande passione per l'**Informatica**, la **
 
 ---
 
-## 📈 Progetti Autodidatta in Sviluppo
-
-- 🛸 **[Analisi Dati Telemetrici da Drone (Python)](PROGETTO_CHE_STIAMO_PER_CREARE):** Un progetto per unire la mia passione per i droni con l'analisi dei dati e l'IA.
-
----
-
 ## 📫 Contatti
 
 - 📧 Email: [fabryficco@gmail.com](mailto:fabryficco@gmail.com)
